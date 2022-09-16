@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebToNative</string>
+    <string name="home_title">Home</string>
+    <string name="showcase_title">Showcase</string>
+    <string name="features_title">Features</string>
+    <string name="faq_title">FAQ</string>
+    <string name="pricing_title">Pricing</string>
+
+</resources>

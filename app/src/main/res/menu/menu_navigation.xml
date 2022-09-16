@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home_title"/>
+    <item
+        android:id="@+id/showcase"
+        android:icon="@drawable/ic_showcase"
+        android:title="@string/showcase_title"/>
+    <item
+        android:id="@+id/features"
+        android:icon="@drawable/ic_features"
+        android:title="@string/features_title"/>
+    <item
+        android:id="@+id/faq"
+        android:enabled="true"
+        android:icon="@drawable/ic_faq"
+        android:title="@string/faq_title"/>
+    <item
+        android:id="@+id/pricing"
+        android:icon="@drawable/ic_pricing"
+        android:title="@string/pricing_title"/>
+</menu>
